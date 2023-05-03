@@ -1,6 +1,6 @@
 i4a	integer		4
 x	form		1
-	hello world
+	hello world again
 .
 	include		b.inc
 	include		c.inc	
