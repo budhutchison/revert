@@ -1,0 +1,13 @@
+# Ignore PL/B Build Files
+*.plc
+*.sdb
+*.lst
+*.plbm
+*.bk*
+*.prj
+*.ini
+
+# Ignore Index and Aamdex files
+*.isi
+*.aam
+
