@@ -1,1 +1,1 @@
-	alert	caution,"d.INC",i4axx
+	alert	caution,"d.INC",i4a
