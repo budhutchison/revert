@@ -4,5 +4,6 @@ x	form		1
 	include		b.inc
 	include		c.inc	
 	include		d.inc
+	clone check!
 .
 	STOP
